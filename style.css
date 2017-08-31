@@ -1,0 +1,52 @@
+body {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.footer {
+    background-color: #eee;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+li {
+    float: right;
+}
+
+.leftallign {
+    float: left;
+}
+
+li a {
+    text-decoration: none;
+    padding: 6px;
+    margin: auto 0;
+    color: #000;
+}
+
+img {
+    margin: 300px 0 10px 0;
+}
+
+input {
+    margin: 10px;
+}
